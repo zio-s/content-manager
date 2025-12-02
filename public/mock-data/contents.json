@@ -1,0 +1,169 @@
+{
+  "contents": [
+    {
+      "id": "1",
+      "title": "React 19의 새로운 기능들",
+      "category": "tech",
+      "status": "published",
+      "views": 2340,
+      "likes": 156,
+      "author": "관리자",
+      "createdAt": "2024-11-01T10:00:00Z",
+      "updatedAt": "2024-11-10T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "title": "TypeScript 고급 타입 활용하기",
+      "category": "tech",
+      "status": "published",
+      "views": 1890,
+      "likes": 124,
+      "author": "관리자",
+      "createdAt": "2024-10-25T08:00:00Z",
+      "updatedAt": "2024-11-05T11:20:00Z"
+    },
+    {
+      "id": "3",
+      "title": "웹 성능 최적화 가이드",
+      "category": "tech",
+      "status": "draft",
+      "views": 0,
+      "likes": 0,
+      "author": "개발자",
+      "createdAt": "2024-11-15T15:00:00Z",
+      "updatedAt": "2024-11-16T09:30:00Z"
+    },
+    {
+      "id": "4",
+      "title": "모던 CSS 레이아웃 테크닉",
+      "category": "design",
+      "status": "published",
+      "views": 1420,
+      "likes": 98,
+      "author": "관리자",
+      "createdAt": "2024-10-20T13:00:00Z",
+      "updatedAt": "2024-10-22T16:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "API 설계 모범 사례",
+      "category": "backend",
+      "status": "published",
+      "views": 870,
+      "likes": 67,
+      "author": "개발자",
+      "createdAt": "2024-10-10T09:00:00Z",
+      "updatedAt": "2024-10-15T12:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Next.js 14 새로운 기능",
+      "category": "tech",
+      "status": "published",
+      "views": 1650,
+      "likes": 112,
+      "author": "관리자",
+      "createdAt": "2024-11-08T11:00:00Z",
+      "updatedAt": "2024-11-12T15:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "UI/UX 디자인 트렌드 2024",
+      "category": "design",
+      "status": "published",
+      "views": 980,
+      "likes": 78,
+      "author": "디자이너",
+      "createdAt": "2024-10-05T10:00:00Z",
+      "updatedAt": "2024-10-08T14:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Node.js 성능 튜닝",
+      "category": "backend",
+      "status": "archived",
+      "views": 540,
+      "likes": 45,
+      "author": "개발자",
+      "createdAt": "2024-09-15T09:00:00Z",
+      "updatedAt": "2024-09-20T11:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "데이터베이스 최적화 전략",
+      "category": "backend",
+      "status": "draft",
+      "views": 0,
+      "likes": 0,
+      "author": "관리자",
+      "createdAt": "2024-11-14T16:00:00Z",
+      "updatedAt": "2024-11-14T16:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "프론트엔드 테스팅 가이드",
+      "category": "tech",
+      "status": "published",
+      "views": 720,
+      "likes": 56,
+      "author": "개발자",
+      "createdAt": "2024-10-28T14:00:00Z",
+      "updatedAt": "2024-11-02T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "반응형 디자인 패턴",
+      "category": "design",
+      "status": "published",
+      "views": 890,
+      "likes": 72,
+      "author": "디자이너",
+      "createdAt": "2024-10-18T11:00:00Z",
+      "updatedAt": "2024-10-25T09:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "마이크로서비스 아키텍처",
+      "category": "backend",
+      "status": "published",
+      "views": 650,
+      "likes": 48,
+      "author": "관리자",
+      "createdAt": "2024-10-12T10:00:00Z",
+      "updatedAt": "2024-10-20T14:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "Git 워크플로우 베스트 프랙티스",
+      "category": "tech",
+      "status": "published",
+      "views": 1120,
+      "likes": 89,
+      "author": "개발자",
+      "createdAt": "2024-11-03T09:00:00Z",
+      "updatedAt": "2024-11-07T11:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "접근성을 고려한 웹 개발",
+      "category": "design",
+      "status": "draft",
+      "views": 0,
+      "likes": 0,
+      "author": "디자이너",
+      "createdAt": "2024-11-13T15:00:00Z",
+      "updatedAt": "2024-11-13T15:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "Docker 컨테이너 실전 가이드",
+      "category": "backend",
+      "status": "published",
+      "views": 780,
+      "likes": 62,
+      "author": "관리자",
+      "createdAt": "2024-10-30T12:00:00Z",
+      "updatedAt": "2024-11-04T16:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "timeSeries": [
+    { "date": "2024-11-01", "pageViews": 1520, "visitors": 420, "sessions": 580 },
+    { "date": "2024-11-02", "pageViews": 1380, "visitors": 380, "sessions": 520 },
+    { "date": "2024-11-03", "pageViews": 980, "visitors": 280, "sessions": 380 },
+    { "date": "2024-11-04", "pageViews": 1050, "visitors": 310, "sessions": 420 },
+    { "date": "2024-11-05", "pageViews": 1680, "visitors": 450, "sessions": 620 },
+    { "date": "2024-11-06", "pageViews": 1750, "visitors": 480, "sessions": 650 },
+    { "date": "2024-11-07", "pageViews": 1620, "visitors": 440, "sessions": 590 },
+    { "date": "2024-11-08", "pageViews": 1580, "visitors": 430, "sessions": 580 },
+    { "date": "2024-11-09", "pageViews": 1420, "visitors": 390, "sessions": 530 },
+    { "date": "2024-11-10", "pageViews": 1020, "visitors": 290, "sessions": 390 },
+    { "date": "2024-11-11", "pageViews": 1150, "visitors": 320, "sessions": 440 },
+    { "date": "2024-11-12", "pageViews": 1780, "visitors": 490, "sessions": 660 },
+    { "date": "2024-11-13", "pageViews": 1850, "visitors": 510, "sessions": 690 },
+    { "date": "2024-11-14", "pageViews": 1720, "visitors": 470, "sessions": 630 }
+  ],
+  "sources": [
+    { "source": "검색엔진", "visitors": 5420, "percentage": 43.5 },
+    { "source": "직접 방문", "visitors": 3180, "percentage": 25.5 },
+    { "source": "소셜미디어", "visitors": 2340, "percentage": 18.8 },
+    { "source": "추천링크", "visitors": 1520, "percentage": 12.2 }
+  ],
+  "devices": [
+    { "device": "데스크톱", "count": 6840, "percentage": 54.9 },
+    { "device": "모바일", "count": 4680, "percentage": 37.6 },
+    { "device": "태블릿", "count": 940, "percentage": 7.5 }
+  ],
+  "pages": [
+    { "page": "/blog/react-19-features", "views": 2340, "avgTime": "4:32" },
+    { "page": "/blog/typescript-tips", "views": 1890, "avgTime": "3:45" },
+    { "page": "/", "views": 1650, "avgTime": "1:20" },
+    { "page": "/blog/css-layout", "views": 1420, "avgTime": "3:12" },
+    { "page": "/about", "views": 980, "avgTime": "2:05" },
+    { "page": "/blog/api-design", "views": 870, "avgTime": "5:18" },
+    { "page": "/contact", "views": 540, "avgTime": "1:45" }
+  ]
+}
